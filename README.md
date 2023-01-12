@@ -28,7 +28,7 @@
 
 ## 실행방법
 ```
-git clone 
+git clone https://github.com/sujin-park0607/HM.git
 pip install -r requirements.txt
 
 npm install
